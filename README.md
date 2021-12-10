@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-js?logo=Javascript&style=for-the-badge&color=1f1f1f"></img>
 <img src="https://img.shields.io/badge/HTML-js?logo=HTML5&style=for-the-badge&color=1f1f1f"></img>
 
+## Github Stats
+![Hyenz's Github Stats](https://github-readme-stats.vercel.app/api?username=Hyenz&show_icons=true&theme=tokyonight)
+
 
 ![](https://komarev.com/ghpvc/?username=Hyenz&color=blue)
 
