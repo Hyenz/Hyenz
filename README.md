@@ -11,6 +11,7 @@
 - Voltz (A Multipurpose Discord bot)
 - Sylvester Airlines Management 
 - Sylvester Moderation 
+- Hibiscus Hub
 
 ### Connect with me:
 
