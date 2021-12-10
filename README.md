@@ -24,3 +24,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Hyenz&color=blue)
+
+
+<img src="https://github.com/DevEvil99/DevEvil99/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
