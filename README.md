@@ -9,7 +9,7 @@
 
 ### Projects that Im working on
 - Voltz (A Multipurpose Discord bot)
-- Sylvester Airlines Management 
+- Sylvester Airlines  
 - Sylvester Moderation 
 - Hibiscus Hub
 
