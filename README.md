@@ -9,8 +9,8 @@
 
 ### Projects that Im working on
 - Voltz V2 (A Multipurpose Discord bot)
-- Sylvester Airlines  
-- Sylvester Moderation 
+- AirAsia X
+- AirAsia X Moderation 
 - Hibiscus Hub
 
 ### Connect with me:
