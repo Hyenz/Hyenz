@@ -11,7 +11,7 @@
 - Voltz V2 (A Multipurpose Discord bot)
 - AirAsia X
 - AirAsia X Moderation 
-- Hibiscus Hub
+- Vournex 
 
 ### Connect with me:
 
