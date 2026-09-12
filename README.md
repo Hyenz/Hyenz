@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Sup Everyone, I'm hyenz 👋<br><br>About Me<br>Software Engineering Student<br>Fullstack Freelancer<br><br>Upcoming Project<br>NexaStudio<br>
+### Sup Everyone, I'm hyenz 👋<br><br>Software Engineering Student<br>Fullstack Freelancer<br><br>Owner Of NexaStudio<br>
 
 
 ## 🌐 Socials:
