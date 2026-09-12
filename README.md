@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Sup Everyone, I'm hyenz 👋<br><br># Discord Bot Developer<br><br>### About Me<br>- Owner of Voltz Bot<br>- Student<br>- Intermediate in HTML and CSS <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><br><br>### Projects that Im working on<br>- RoPlannr<br>- RoHub <br>- Soon... 
+### Sup Everyone, I'm hyenz 👋<br><br>About Me<br>Software Engineering Student<br>Fullstack Freelancer<br><br>Upcoming Project<br>NexaStudio<br>
 
 
 ## 🌐 Socials:
